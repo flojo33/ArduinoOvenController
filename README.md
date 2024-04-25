@@ -1,4 +1,4 @@
-# ArduinoOvenController
+# Arduino Oven Controller
 Arduino project for controlling a heat treating oven.
 
 The oven is controlled by a relay that triggers the heating coil. A PT1000 temperature sensor is installed in the oven. The arduino is connected to a 2x16 digit display including a rotary encoder as input.
